@@ -1,0 +1,37 @@
+#heading{
+    font-family: Algerian;
+    font-weight: bold;
+    text-shadow: 5px 3px 5px gold;
+    color: red;
+}
+
+.copyrightfooter{
+    bottom: 0px;
+    position: fixed;
+    background-color: black;
+    color: gray;
+    font-family: Comic Sans Ms;
+    text-align: center;
+    width: 100%;
+    line-height: 3; 
+
+}
+body{
+    background-size: cover;
+}
+#object_detected,#status{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: red;
+    line-height: 2;
+    text-decoration: gold underline;
+    text-decoration-style: dotted;
+    font-style: oblique;
+    background-color: goldenrod;
+}
+canvas{
+box-shadow: green -10px 6px 7px;
+border-radius: 100px;
+border: dashed black;
+margin-top: 130px;
+}
